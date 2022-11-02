@@ -45,11 +45,32 @@ html {
     text-transform: uppercase;
   }
 
-  .content
-  {
-    padding:30px;
-    max-width: 50vw;
+
+@media (min-width: 320px) and (max-width: 780px)
+{
+
+    .content
+    {
+      padding:30px;
+      max-width: 100%;
+      
   }
+
+
+}
+
+@media (min-width: 781px)
+{
+
+    .content
+    {
+      padding:30px;
+      max-width: 50%;
+  }
+} 
+
+
+
 
   a
   {
