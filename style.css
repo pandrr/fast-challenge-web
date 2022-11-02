@@ -1,0 +1,64 @@
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+  body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+  }
+  
+  ol, ul {
+    list-style-position: inside;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* ------ */
+
+  body
+  {
+    background-color: #222;
+    color:#aaa;
+    font-family: monospace;
+  }
+
+  h1
+  {
+    color:white;
+    font-size: 40px;;
+  }
+  h2
+  {
+    color:white;
+    font-family: arial;
+    margin-top:30px;
+    margin-bottom:20px;
+    text-transform: uppercase;
+  }
+
+  .content
+  {
+    padding:30px;
+    max-width: 50vw;
+  }
+
+  a
+  {
+    color:white;
+    text-decoration: underline;
+    font-weight: bold;
+  }
+
+  td
+  {
+    padding:5px;
+  }
