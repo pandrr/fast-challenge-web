@@ -97,6 +97,15 @@ html {
     color:#aaa
   }
 
+  .keyword
+  {
+    background-color: #151515;
+    /*border-left:10px solid black;*/
+    padding-left:20px;
+    color: #aaa;
+    padding: 10px;
+  }
+
 
   .download
   {
