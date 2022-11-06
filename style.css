@@ -79,9 +79,16 @@ html {
     font-weight: bold;
   }
 
-  td
+  td,th
   {
     padding:5px;
+    border-bottom: 1px solid #111;
+  }
+
+  th
+  {
+    background-color: #111;
+    font-weight: bold;
   }
 
   .quote
