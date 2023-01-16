@@ -1,0 +1,19 @@
+you are invited to produce a track for this challenge!
+
+we are organizing a reoccuring competition called "fast challenge"
+it's basically a thing where you have to make a one minute demo in one day, theme keywords are randomized and music is provided and people can concentrate on making the demo.
+
+in future events we also want to select a random track out of a pool of songs.
+
+it is not guaranteed when it will be used, but we want to organize it for many demoparties.
+
+be aware, that there is a risk of "bad demos" being released with your track.
+please think about this: the goal of this challenge is to get more people into the habbit of making more demos! so it should not be artificially hard to make a demo for your soundtrack...
+
+- the track should be around 1 to 1:30 minutes
+- it would be great to have midi file containing important sync points to make life easier for the democreator
+- mp3/ogg format
+- genre is totally up to you
+- name of the file should contain title and author (or alias)
+
+the next challenge will be for mountain bytes (25th february)
